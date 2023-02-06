@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+
+.AdDesigner {
+  display: flex;
+  justify-content: left;
+  font-family: Caveat;
+  font-size: 50px;
+  width: 50%;
+  align-items: right;
+  margin: left;
+  float: left;
+}
+
+h2 {
+  font-family: Caveat;
+  font-size: 50px;
+  align-items: right;
+}
+
+.Ad--light {
+  width: 50%;
+  align-items: right;
+}
+
+.button-bar {
+  width: 50%;
+  align-items: right;
+}
+
+input {
+  border: none;
+  width: 20px;
+}

@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+}
+
+.main > * {
+  flex: 1;
+}
+
+button:active {
+  background-color: #1e60a9;
+}
+button:disabled {
+  background-color: gray;
+}

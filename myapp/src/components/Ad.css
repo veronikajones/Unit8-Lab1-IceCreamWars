@@ -1,0 +1,44 @@
+.Ad {
+  display: inline-block;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  padding: 10px 20px;
+  font-weight: bold;
+  width: 40%;
+  height: 150px;
+  box-shadow: 0 1px 4px 3px #888;
+  margin-bottom: 5px;
+}
+
+.Ad p {
+  margin: 0;
+  font-family: Caveat;
+  font-size: x-large;
+}
+
+p.Ad_choice {
+  margin-top: 5px;
+  font-family: Caveat;
+}
+
+.AdAd--dark {
+  color: #fff;
+  background-color: #222;
+  border-color: white;
+}
+
+.AdAd--light {
+  color: #000;
+  background-color: white;
+  border-color: #222;
+}
+
+h4 {
+  font-family: default;
+}
+
+p {
+  font-size: large;
+}
